@@ -27,7 +27,7 @@ public class NotificationService {
     }
 }
 ```
-	Every time a new notification type is added, we **modify** `send()`.  This violates OCP — we keep changing existing logic.
+Every time a new notification type is added, we **modify** `send()`.  This violates OCP — we keep changing existing logic.
 
 ```java
 // Abstraction

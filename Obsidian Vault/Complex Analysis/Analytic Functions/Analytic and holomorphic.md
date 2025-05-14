@@ -1,7 +1,9 @@
 ### Idea
-![[Lect-08-Cauchy-Riemann-2018-beamer.pdf#page=40]]
+![[Assets/Pictures/Lect-08-Cauchy-Riemann-2018-beamer.png]]
+[[Lect-08-Cauchy-Riemann-2018-beamer.pdf#page=39&rect=5,8,354,266|Lect-08-Cauchy-Riemann-2018-beamer, p.19]]
+
 ![[Screenshot 2024-11-20 at 2.52.59 pm.png]]
-For a holomorphic function, z0 can be anything inside the domain. 
+For a holomorphic function, $z_0$ can be anything inside the domain. 
 ![[Screenshot 2024-11-20 at 2.54.30 pm.png]]
 ![[Lect-08-Cauchy-Riemann-2018-beamer.pdf#page=40]]
 ### Formally

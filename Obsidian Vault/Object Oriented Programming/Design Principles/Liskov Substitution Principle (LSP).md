@@ -2,6 +2,35 @@
 ![[Pasted image 20250510164158.png]]
 ![[Pasted image 20250510174147.png]]
 [[Design by Contract]]
+
+In a mathematical view, think of
+
+f(x) is the superclass function, where:
+	Domain (input space) = Pre_A
+	Codomain (output space) = Post_A
+
+g(x) is the subclass function, substituting f(x):
+	Domain = Pre_B
+	Codomain = Post_B
+
+### To **preserve substitutability (LSP)**:
+
+#### ✅ Preconditions (Inputs):
+
+We need to **weaken preconditions**:
+- The subclass **must accept all inputs that the superclass accepts**, or **more**
+$$
+Pre_A ⊆ Pre_B
+
+$$
+#### ✅ Postconditions (Outputs):
+
+We need to **strengthen postconditions**:
+- The subclass **must guarantee at least what the superclass promised, or more strict guarantees (subset of possible outcomes)**.
+
+$$
+Post_B ⊆ Post_A
+$$
 ### Example 
 ![[Pasted image 20250510174236.png]]
 ##### In `OnlineSeminar`

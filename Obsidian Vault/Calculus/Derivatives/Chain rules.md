@@ -1,7 +1,7 @@
 ### Idea
 #### For single variable
 ![[Screen Shot 2024-05-31 at 2.08.58 pm.png]]
-#### For multivariable 
+#### For multi-variable 
 
 ![[Screenshot_2024-05-30-23-47-47_18089.png]]
 Since all path from x reaches t, we have $\frac{dx}{dt}$, but there is 1 path from F to x and from F to y, so we have $\frac{\partial F}{\partial x}$ and $\frac{\partial F}{\partial y}$.

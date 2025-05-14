@@ -2,7 +2,7 @@
 
 	A class should have only one reason to change.
 - Each class should only do one thing and do it well.
-- Promotes **high cohesion** (related functionality grouped together).
+- Promotes **high [[Coupling and Cohesion|cohesion]]** (related functionality grouped together).
 
 ### Example 
 ```java
