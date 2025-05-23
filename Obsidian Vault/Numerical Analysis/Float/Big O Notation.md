@@ -20,5 +20,10 @@ When we uses approach instead of an index $n_0$, we allows for infinity.
 ![[Assets/Pictures/chap2_Float 20.png]]
 [[chap2_Float.pdf#page=20&rect=57,405,513,694|chap2_Float, p.20]]
 
+#### Flops
+![[Assets/Pictures/chap3_LinSys 32.png]]
+[[chap3_LinSys.pdf#page=25&rect=66,563,535,699|chap3_LinSys, p.25]]
+
+The dot product has $n$ multiplications and $n$ additions, giving a total of $2n$ flops.
 
 #coding #math 
