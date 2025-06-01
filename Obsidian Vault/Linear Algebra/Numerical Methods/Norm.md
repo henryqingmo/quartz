@@ -3,23 +3,23 @@
 [[chap3_LinSys.pdf#page=3&rect=59,62,520,412|chap3_LinSys, p.3]]
 
 All norms induces a [[Metric]], the $L^{1}$ norm induces **Manhattan distance**.
-![[Pasted image 20250516164513.png]]
+![[Pasted image 20250516164513.png|600]]
 $L^{2}$ norm induces the Euclidean [[Metric]]
-![[Pasted image 20250516164530.png]]
+![[Pasted image 20250516164530.png|600]]
 The $\infty$ norm is exactly the max component of a vector
-![[Pasted image 20250516164750.png]]
+![[Pasted image 20250516164750.png|600]]
 From the graph we can see that some points on the `small p-norm` is inside the large `p-norm`, which means for the same point, the distance on the small p-norm is **larger**
 
 #### Norm Inequaltiy
 
 This gives us the following inequality
-![[Pasted image 20250517182703.png]]
+![[Pasted image 20250517182703.png|600]]
 [[Cauchy-Schwarz inequality]]
 
 For inequality 2, we can square both side and the RHS becomes
-![[Pasted image 20250517232731.png]]
+![[Pasted image 20250517232731.png|600]]
 
-![[Pasted image 20250517230858.png]]
+![[Pasted image 20250517230858.png|600]]
 #### Summary 
 ![[Pasted image 20250517233049.png]]
 

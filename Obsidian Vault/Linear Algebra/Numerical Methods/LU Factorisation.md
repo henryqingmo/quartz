@@ -2,7 +2,12 @@
 ![[Assets/Pictures/chap3_LinSys 20.png]]
 [[chap3_LinSys.pdf#page=12&rect=65,211,526,479|chap3_LinSys, p.12]]
 
-Here we utilised [[Triangular Matrix]]
+Here we utilised ![[Triangular Matrix#Lower Triangular matrix]]
+The diagonals should be all 1s, considering it's a product of [[Elementary Row Operations#Elementary Matrix|Elementary Matrix]].
+
+![[Triangular Matrix#Upper triangular matrix]]
+The Upper triangular matrix can have 0s on the diagonals.
+
 #### Example
 ![[Assets/Pictures/chap3_LinSys 21.png]]
 [[chap3_LinSys.pdf#page=12&rect=65,48,528,213|chap3_LinSys, p.12]]
@@ -14,19 +19,9 @@ The Upper [[Triangular Matrix]] is exactly the result of [[Gaussian Elimination]
 ![[Assets/Pictures/chap3_LinSys 23.png]]
 [[chap3_LinSys.pdf#page=13&rect=77,49,523,392|chap3_LinSys, p.13]]
 
-![[IMG_0608.jpeg]]
-We basically record the process $XA = U$, and finding the Inverse $L = X^{-1}$, by reversing the steps on Identity $X^{-1}I = L$
-
-For step 1, we eliminated the pivot element in Row 2 and 3 using Row 1.
-
-This gives us the side effect of altering $a_{22}$ and $a_{32}$ which we gonna use in the next elimination. 
-
-For step 2, we eliminate $a_{32}$.
-In the image we showed that since $R_{2}$ and $R_{3}$ are both equally affected by $R_{1}$, the effect of $R_{1}$ cancels out. 
-
-Hence we can make sure that each entry of the identity matrix is affected only once.  
-
 ![[Pasted image 20250520144916.png]]
+
+
 
 ![[Assets/Pictures/chap3_LinSys 24.png]]
 [[chap3_LinSys.pdf#page=14&rect=63,510,529,696|chap3_LinSys, p.14]]

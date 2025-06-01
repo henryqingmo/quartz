@@ -1,8 +1,12 @@
+---
+tags:
+  - math
+---
+
 ### Idea
 
 ### Formally
 
-#math 
 
 
 
