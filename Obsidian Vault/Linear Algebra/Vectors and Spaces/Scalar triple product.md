@@ -7,7 +7,7 @@
 #### Geometric interpretation
 ![[Screen Shot 2024-05-22 at 5.51.44 pm.png]]
 
-#math #algebra #linear_algebra 
+#math/linear_algebra 
 
 
 

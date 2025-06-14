@@ -8,8 +8,9 @@ It would be helpful to think of matrix as collections of row/column vectors, whi
 [[The-Art-of-Linear-Algebra.pdf#page=2&rect=65,155,534,322|The-Art-of-Linear-Algebra, p.2]]
 [[Dot product]]
 #### Matrix and vector
+^Mv
 ![[Assets/Pictures/The-Art-of-Linear-Algebra.png]]
-[[The-Art-of-Linear-Algebra.pdf#page=3&rect=64,529,547,767|The-Art-of-Linear-Algebra, p.3]]
+[[The-Art-of-Linear-Algebra.pdf#page=3&rect=64,529,547,767|The-Art-of-Linear-Algebra, p.3]] ^e69113
 
 For `Mv1` we use dot product, for `Mv2`, we distributes it into linear combinations of columns, we will have the row space instead, if the matrix was on the right. 
 

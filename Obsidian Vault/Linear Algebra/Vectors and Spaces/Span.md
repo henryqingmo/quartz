@@ -16,7 +16,7 @@ Recall using [[Tangent and normal]]
 ```
 This is equivalent to write z in terms of x and y in [[Plane]] equation.
 
-#math #algebra #linear_algebra 
+#math/linear_algebra 
 
 
 

@@ -14,7 +14,7 @@ The steps [[Directional derivative]]
 This is exactly the [[trace]] of a [[Jacobian matrix]]
 ### Formally
 
-#math #calculus #multivariable_calculus 
+#math/vector_calculus  
 
 
 

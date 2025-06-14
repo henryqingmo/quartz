@@ -19,7 +19,7 @@ We can calculate the normal by defining a [[Cross product]] in 3d
 [[14. Path Integral - Annotated.pdf#page=34&rect=7,20,452,253|14. Path Integral - Annotated, p.34]]
 Here we used [[Green theorem]] to express flux in terms of [[Divergence]]
 
-#math #calculus 
+#math/vector_calculus 
 
 
 

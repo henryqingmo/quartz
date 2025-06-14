@@ -11,7 +11,7 @@ Relations of [[Gradient]] [[Divergence]] [[Curl]]
 ![[Assets/Pictures/13. Vector Fields - Annotated 1.png]]
 
 [[13. Vector Fields - Annotated.pdf#page=9&rect=5,15,362,251|13. Vector Fields - Annotated, p.9]]
-#math #calculus #vector_calculus #linear_algebra 
+#math/vector_calculus 
 
 
 

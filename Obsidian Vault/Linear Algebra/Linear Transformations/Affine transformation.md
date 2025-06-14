@@ -5,7 +5,7 @@
 ![[Assets/Pictures/6. Differentiability - Handout 3.png]]
 [[6. Differentiability - Handout.pdf#page=4&rect=62,101,727,566|6. Differentiability - Handout, p.4]]
 
-Affine transformation is a [[Linear map]] plus some translation, like $T(x) = Ax + b$  so that $T(x) = 0$ only when there is no translation.
+Affine transformation is a [[Linear Algebra/Vectors and Spaces/Linear map]] plus some translation, like $T(x) = Ax + b$  so that $T(x) = 0$ only when there is no translation.
 
 #math #linear_algebra #algebra #linear_transformation 
 

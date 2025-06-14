@@ -4,7 +4,7 @@
 
 [[Divergence]]
 
-#math #calculus 
+#math/vector_calculus 
 
 
 

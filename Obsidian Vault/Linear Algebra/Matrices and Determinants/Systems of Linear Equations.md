@@ -8,6 +8,7 @@ The row picture involves graphing the equations of each row, and finding their i
 We think of solving the simultaneous equations, or equivalently the intersections of hyperplanes. 
 
 #### Example
+#status/todo 
 In 2D, the hyperplane is a line.
 ![[Line#Idea]]
 Solving the equations in 2D is like finding the intersection of lines. 
@@ -45,6 +46,19 @@ We can represent each point as the linear combinations of standard basis.
 
 #### Practice Problem
 ![[Pasted image 20250527152251.png|500]]
+
+#### Example
+![[Pasted image 20250601172721.png|400]]
+We can first check for the the column space, and see if $b$ lies there, but we can first perform [[Gaussian Elimination]] since it preserves the linear dependency of the columns.
+![[Pasted image 20250601173233.png]]
+The 2 pivot columns means the column space is of dimension 2. 
+Since $\vec{b}$ exists within the column space, the 1 restriction imposed makes it a line. 
+![[Pasted image 20250601173552.png]]
+We can construct the NULL space, and add it to a particular solution.
+
+The whole of the input space is the direct sum of the null space and the column space, here we have all the solutions for all the possible b, (a lines on the row space that can be extended by null space into a plane), so for a particular b value, the solution would be the null space shifted by a value on the particular solutions.
+
+![[Pasted image 20250601174101.png]]
 
 #math #linear_algebra 
 

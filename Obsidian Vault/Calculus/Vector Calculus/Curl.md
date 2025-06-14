@@ -19,7 +19,7 @@ By similar argument, for arrived at the formula for y, except this time the anti
 #### Connection to [[Cross product]]
 ![[3Blue1Brown - Divergence and curl The language of Maxwell's equations, fluid flow, and more [rB83DpBJQsE - 1111x625 - 13m10s].png]]
 
-#math #calculus  #multivariable_calculus 
+#math/vector_calculus 
 
 
 
