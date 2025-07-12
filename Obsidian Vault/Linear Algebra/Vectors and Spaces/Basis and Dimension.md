@@ -3,6 +3,9 @@ tags:
   - math/linear_algebra/vector_spaces
 ---
 ### Idea
+![[Assets/Pictures/Handout 2.2 - Linear combinations and bases.png]]
+[[Handout 2.2 - Linear combinations and bases.pdf#page=10&rect=16,13,346,93|Handout 2.2 - Linear combinations and bases, p.9]]
+
 ![[Pasted image 20240715145119.png]]
 
 ![[Pasted image 20240715145211.png]]

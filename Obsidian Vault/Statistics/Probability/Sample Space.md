@@ -1,6 +1,6 @@
 ---
 tags:
-  - math/statistcs/probability
+  - math/statistics/probability
 ---
 ### Idea
 ![[Assets/Pictures/4da14680987c076bd5aa2860da2d1afb_MITRES_6_012S18_L01AS.png]]

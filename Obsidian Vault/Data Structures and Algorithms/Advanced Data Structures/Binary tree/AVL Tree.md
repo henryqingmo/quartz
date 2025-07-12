@@ -12,7 +12,7 @@ Steps in inserting to an AVL Tree.
    
 
 LR: imbalance on the left branch, and the left right branch is heavier than left left branch
-   in this situation, Perform a right  rotation on the left node, this will make  the node having a LL situation, hence we 
+   in this situation, Perform a left rotation on the right node, this will make  the node having a LL situation, hence we 
    
 	follow by a left rotation on the node. 
 
