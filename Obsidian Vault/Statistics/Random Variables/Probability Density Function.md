@@ -6,6 +6,10 @@ tags:
 ![[Pasted image 20250701120423.png]]
 > [!note]
 > Unlike [[Probability Mass Function|PMF]], PDF has continuous [[Statistics/Random variable|Random variable]].
+![[Pasted image 20250714192445.png]]
+Here we can only defined the height as some probability per unit, and let the area under the curve represent probability.
+![[Pasted image 20250714193100.png]]
+Intuitively, it's better to think of possibility as the probability density. 
 
 ![[Pasted image 20250701120506.png]]
 > [!note] 

@@ -2,7 +2,7 @@
 tags:
   - math/statistics/random_variable
 ---
-	### Idea
+### Idea
 ![[Pasted image 20250614210311.png]]
 The sum of the sequence would be 1.
 ![[Pasted image 20250708164209.png]]
