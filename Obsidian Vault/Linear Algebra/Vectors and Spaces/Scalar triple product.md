@@ -1,3 +1,7 @@
+---
+tags:
+  - math/linear_algebra/vector_spaces
+---
 ### Idea
 ![[Screen Shot 2024-05-22 at 5.50.15 pm.png]]
 
@@ -6,8 +10,3 @@
 
 #### Geometric interpretation
 ![[Screen Shot 2024-05-22 at 5.51.44 pm.png]]
-
-#math/linear_algebra 
-
-
-

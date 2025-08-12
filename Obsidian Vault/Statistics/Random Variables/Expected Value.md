@@ -35,12 +35,27 @@ There are two ways of thinking about this.
 > 
 > So basically we look at the possible X and look at what it maps to 
 
+#### Change of Variables
+![[Pasted image 20250723151223.png]]
+> [!note] 
+> Here we basically define the expected value as the sum of $X(w)P(w)$ over all the $\omega$ in A, here we can do a substitution letting $x = X(\omega)$
+
 #### Linearity of expectation
 ![[Pasted image 20250615133112.png]]
 #### Total expectation theorem 
 ![[Pasted image 20250621214609.png]]
 Here we replaced $B$ with $X = x$ from [[Total probability rule]], Since $X = x$ is the whole sample space.  
 #### Conditional Expectation
+![[Pasted image 20250723152018.png]]
+>[!abstract]
+>$A$ is some subset of outcomes in $\Omega$, that we can assign with 
+>probability measure $\mathbb{P}$.
+>>[!note]
+>> With conditional probability, we basically reassigned our probability measure by [[Conditional probability]] function.
+>> ![[Pasted image 20250723153318.png]]
+>> Now we can substitute the definition of conditional probability.
+
+
 ![[Pasted image 20250622161222.png]]
 Here we replace $A$ with $Y = y$
 > [!tip]

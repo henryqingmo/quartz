@@ -30,6 +30,7 @@ Using tangent plane to approximate a nearby value
 #### Differential
 ![[Assets/Pictures/MATH1231-1241-Calculus-Notes-2020T1 3.png]]
 [[MATH1231-1241-Calculus-Notes-2020T1.pdf#page=24&rect=52,455,537,754|MATH1231-1241-Calculus-Notes-2020T1, p.14]]
+[[Partial derivative#Idea]]
 
 
 ### Formally

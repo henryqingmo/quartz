@@ -12,6 +12,9 @@ So that we create a one to one correspondence with each $x$.
 
 ![[Pasted image 20250701191700.png]]
 [[Probability Density Function|PDF]]
+
+#### Formally
+![[Pasted image 20250723125743.png]]
 #### Visually
 ![[Pasted image 20250702155806.png]]
 Another way of thinking about this, is to draw up a grid of multiplication table, and sum up the probability along the diagonal.

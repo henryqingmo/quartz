@@ -12,9 +12,9 @@ Here we used inequality of [[Norm]]
 [[Inverse Matrix]]
 #### Proof
 1. 
-![[Pasted image 20250517235633.png]]
+![[Pasted image 20250517235633.png|500]]
 Notice we dropped the max because it applied only to $\frac{||A(Bx)||}{||x||}$, so that each of the product might not be maximised.
-![[Pasted image 20250518000036.png]]
+![[Pasted image 20250518000036.png|500]]
 Part 2 follows from there.
 
 ![[Assets/Pictures/chap3_LinSys 9.png]]
@@ -27,9 +27,9 @@ Part 2 follows from there.
 Here we use [[Spectral Theorem]] which allows us to choose P as orthogonal. 
 
 From the Inequality we deduce
-![[Pasted image 20250518161522.png]]
+![[Pasted image 20250518161522.png|500]]
 Now we choose $w = \vec{e_1}$.
-![[Pasted image 20250518161545.png]]
+![[Pasted image 20250518161545.png|500]]
 #### Stability
 ![[Assets/Pictures/chap3_LinSys 12.png]]
 [[chap3_LinSys.pdf#page=9&rect=71,300,549,485|chap3_LinSys, p.9]]
@@ -38,13 +38,13 @@ Now we choose $w = \vec{e_1}$.
 [[chap3_LinSys.pdf#page=9&rect=72,62,549,299|chap3_LinSys, p.9]]
 
 ##### Proving Invertible
-![[Pasted image 20250518170118.png]]
+![[Pasted image 20250518170118.png|500]]
 Using [[Neumann series]]
-![[Pasted image 20250518170254.png]]
+![[Pasted image 20250518170254.png|500]]
 #### Proof 
-![[Pasted image 20250518171826.png]]
-![[Pasted image 20250518171851.png]]
-![[Pasted image 20250518171902.png]]
+![[Pasted image 20250518171826.png|500]]
+![[Pasted image 20250518171851.png|500]]
+![[Pasted image 20250518171902.png|500]]
 
 #### Example
 ![[Assets/Pictures/chap3_LinSys 14.png]]
@@ -52,7 +52,7 @@ Using [[Neumann series]]
 Now we can investigate when $\mu= 0.1$, which means $\kappa{(A)} = 183$
 ![[Assets/Pictures/chap3_LinSys 15.png]]
 [[chap3_LinSys.pdf#page=10&rect=51,61,521,370|chap3_LinSys, p.10]]
-![[Pasted image 20250519131744.png]]
+![[Pasted image 20250519131744.png|500]]
 ![[Assets/Pictures/chap3_LinSys 16.png]]
 [[chap3_LinSys.pdf#page=11&rect=69,500,523,695|chap3_LinSys, p.11]]
 

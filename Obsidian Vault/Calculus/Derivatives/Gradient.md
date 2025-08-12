@@ -10,7 +10,7 @@ The x components represent the x-direction of greatest ascent, so together the g
 We can verify this with [[Directional derivative]],  the max of $\nabla f \cdot \hat u$ is when [[Dot product]] has angle of 0, then the slope would be $|\nabla f|$, so intuitively going up the $\nabla f$ direction has the greatest slope.
 
 For an explicit function  like $f(x,y,z) = c$ , the gradient represent [[Tangent and normal]] of the surface. 
-And the implicit gradient is the [[Projection]] of the explicit gradient.
+And the implicit gradient is the [[Linear Algebra/Linear Transformations/Projection]] of the explicit gradient.
 
 ![[Pasted image 20250421131850.png]]
 This is why we can't take gradient of both sides for a level curve. 

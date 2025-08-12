@@ -45,8 +45,12 @@ tags:
 > [!note]
 > The whole distribution is discrete, represented with a [[Probability Mass Function]]. X is the number of occurrences, and $\lambda$ represents the rate of the event in a fixed interval.
 
-![[Pasted image 20250708181227.png]]
+#### Reproductive Property
+![[Pasted image 20250716172541.png]]
 
+![[Pasted image 20250708181227.png]]
+> [!note]
+>The mean is at $\lambda$, and the variance is $\lambda$
 
 
 

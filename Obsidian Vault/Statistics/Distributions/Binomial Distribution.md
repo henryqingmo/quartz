@@ -1,6 +1,6 @@
 ---
 tags:
-  - math/statistics/random_variable
+  - math/statistics/distribution
 ---
 ### Idea
 ![[L05.6 Binomial Random Variables - YouTube - 0-3-28.jpeg]]

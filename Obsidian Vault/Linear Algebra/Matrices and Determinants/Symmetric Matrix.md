@@ -25,6 +25,16 @@ $$
 (A - A^{T})^{T} = A^{T} - A
 $$
 
+Symmetric matrices have orthogonal [[Eigenvalues and eigenvectors|eigenvectors]].
+#### Decomposition
+![[Pasted image 20250729114644.png|500]]
+So it can be rewritten in this form.
+
+![[Assets/Pictures/The-Art-of-Linear-Algebra 7.png]]
+[[The-Art-of-Linear-Algebra.pdf#page=11&rect=64,395,561,779|The-Art-of-Linear-Algebra, p.11]]
+> [!note]
+> All symmetric matrix will have $A^{T}A= AA^{T}$, therefore is a special case of [[Normal Maps]], thus we can apply the [[Spectral Theorem]].
+
 #math #linear_algebra 
 
 

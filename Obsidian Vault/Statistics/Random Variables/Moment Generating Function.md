@@ -4,6 +4,8 @@ tags:
 ---
 ### Idea
 ![[Assets/Pictures/MATH2901 Course Notes 2.png]]
+
+![[Pasted image 20250724124332.png]]
 [[MATH2901 Course Notes.pdf#page=43&rect=67,89,519,535|MATH2901 Course Notes, p.43]]
 
 ![[Pasted image 20250621215721.png]]

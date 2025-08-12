@@ -20,6 +20,7 @@ The row space of a matrix is unaffected by [[Gaussian Elimination]].
 To see why Row space is perpendicular to Null space
 ![[Matrix multiplication#^e69113]]
 Consider $Ax = 0$, by Mv1, we need $x$ [[Dot product|dot]] each row of $A$ to be 0, where $x$ is the Null space. 
+	The kernel is exactly the [[Eigenvalues and eigenvectors|eigenvector]] with eigenvalue of 0, that's because $A - \lambda I = A$.
 ##### Constructing Null Space
 #status/todo
 ![[IMG_0688.jpeg]]

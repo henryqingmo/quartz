@@ -1,6 +1,6 @@
 ---
 tags:
-  - math/statistics/random_variable
+  - math/statistics/distribution
 ---
 ### Idea
 ![[Pasted image 20250614181646.png]]

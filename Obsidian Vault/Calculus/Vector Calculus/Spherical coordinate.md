@@ -13,7 +13,7 @@ $\phi$ goes from 0 (vertical line on positive z) to $\frac{\pi}{2}$, the equator
 $x^2 = y^2 = az^2$ would look like a hourglass shape.
 ![[Pasted image 20250406015236.png]]
 $(x,y)$ is exactly $(r\cos\theta, r\sin\theta)$ where $r = \rho\sin\phi$
-z has to be the length's [[Projection]] onto the unit z vector. 
+z has to be the length's [[Linear Algebra/Linear Transformations/Projection]] onto the unit z vector. 
 ![[Assets/Pictures/12. Change of Variable - Annotated 3.png]]
 [[12. Change of Variable - Annotated.pdf#page=26&rect=4,12,422,251|12. Change of Variable - Annotated, p.25]]
 

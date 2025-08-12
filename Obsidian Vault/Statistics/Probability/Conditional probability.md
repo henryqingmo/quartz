@@ -1,4 +1,9 @@
 ### Idea
+![[Pasted image 20250723152550.png]]
+We define this function that takes in an event $A$ and spits out it's conditional probability.
+![[Pasted image 20250723152916.png|300]]
+We can represent $P(A\cap B)$ by this integral over $A$ with indicator to check if any of the outcome in $B$.
+#### Intuition
 ![[Pasted image 20250626122135.png]]
 We basically change the [[Sample Space]] to be of the condition.
 ![[Pasted image 20250626122248.png]]

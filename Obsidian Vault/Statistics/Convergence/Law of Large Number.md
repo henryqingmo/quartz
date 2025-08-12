@@ -14,5 +14,6 @@ Using [[Chebyshev Inequality]]
 
 ![[Pasted image 20250708151945.png]]
 
-
+#### Weak Law of Large Numbers
+![[Pasted image 20250812160045.png]]
 
