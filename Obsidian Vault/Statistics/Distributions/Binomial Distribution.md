@@ -11,3 +11,5 @@ This is $n$ independent [[Bernoulli Distribution#Expected Value| Bernoulli Expec
 ![[Pasted image 20250622163618.png]]
 This is n independent [[Bernoulli Distribution#Variance|Bernoulli Variance]], Using the result from [[Variance and Standard Deviation#Independence|Independence]].
 
+![[Pasted image 20250814203622.png]]
+We can approximate binomial with a [[Normal Distribution]]

@@ -12,5 +12,7 @@ Since the expected value of the derivative of the score function would be 0, the
 ![[Pasted image 20250812193523.png|500]]
 Since the expected value is 0, we can take the second derivative to find that it will also be 0, thereby we can express fisher information in terms of  it's second derivative.
 
+We take $\frac{1}{n}$of the second derivative of the Log [[Likelihood]]. for **I.I.d smooth** function. 
+
 
 

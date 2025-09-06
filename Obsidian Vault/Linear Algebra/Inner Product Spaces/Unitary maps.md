@@ -12,7 +12,8 @@ tags:
 ![[Assets/Pictures/Handout 4.3 - Adjoints and QR factorisation 3.png]]
 [[Handout 4.3 - Adjoints and QR factorisation.pdf#page=9&rect=6,9,346,268|Handout 4.3 - Adjoints and QR factorisation, p.8]]
 ### Formally
-
+![[Pasted image 20250818004943.png]]
+[[Characteristic and Minimal Polynomial]]
 
 
 

@@ -20,5 +20,6 @@ There are two ways to approach this, first is using [[Gaussian Elimination]] on 
 ![[Pasted image 20250601175310.png]]
 Th Second way is to Gaussian eliminate using the columns, this will change the column space, but preserves the linear dependency between the columns, so we can find basis from the original matrix.
 ![[Pasted image 20250601175517.png|400]]
-
+> [!note]
+> The coordinates tells us the linear combination of the basis they are respect to.  
 

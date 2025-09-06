@@ -16,3 +16,11 @@ So we are basically looking for $P(? \lt \bar X \lt ?) = 0.95$, Since the sample
 #### Unknown Variance
 ![[Pasted image 20250812162611.png]]
 We replaced standard deviation with [[Sample Mean and Variance Estimator#Sample Variance Estimator|Sample standard deviation]], which changes the distribution to [[Student's t-distribution]]
+
+#### Example
+![[Pasted image 20250813124547.png]]
+![[Pasted image 20250813125652.png]]
+We need one-sided CI in this case as the alternatives is one sided.
+
+> [!note]
+>Using confidence interval for this question,  we first find the confidence interval using $\bar x + t_{0.95}\frac{s}{\sqrt{n}}$, because the hypothesis is $\mu$ less than the upper bound, so we only want 5% of the time we have $\mu$ greater than the upper bound.  We see the upper bound is 63.47%, which is well below 78.1%, **95% of intervals constructed this way will contain $\mu$** , therefore $\mu$ must lie below 63.47% and hence reject the hypothesis.

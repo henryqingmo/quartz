@@ -8,7 +8,7 @@ tags:
 
 ![[Pasted image 20250729163052.png]]
 > [!note]
-> Inner product between two complex vector is exactly the conjugate transpose of matrix multiplication and therefore same as [[Adjoint]]. 
+> Inner product between two complex vector is exactly the conjugate transpose of matrix multiplication and therefore same as [[Adjoint and Transpose]]. 
 
 
 

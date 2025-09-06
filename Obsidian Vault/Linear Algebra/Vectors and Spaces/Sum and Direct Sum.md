@@ -2,7 +2,7 @@
 tags:
   - math/linear_algebra/vector_spaces
 ---
-
+	
 ### Idea
 ![[Assets/Pictures/LADR 4.png]]
 [[LADR.pdf#page=37&rect=14,32,357,132|LADR, p.19]]

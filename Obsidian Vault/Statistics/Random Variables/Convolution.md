@@ -12,7 +12,14 @@ So that we create a one to one correspondence with each $x$.
 
 ![[Pasted image 20250701191700.png]]
 [[Probability Density Function|PDF]]
+> [!warning]
+>  Be careful, summing over a region on 2d is a [[Double integral]], and that will give us the [[Cumulative Distribution Function]]
+>  This is exactly how we derived it.
+>  ![[Pasted image 20250813205608.png]]
 
+![[Pasted image 20250814122801.png]]
+
+![[Pasted image 20250814123102.png]]
 #### Formally
 ![[Pasted image 20250723125743.png]]
 #### Visually

@@ -16,6 +16,9 @@ For positive definite matrix, the cross-section will be an ellipse
 ![[Pasted image 20250805182923.png]]
 We can find the pivots, as their product equals the determinant. 
 
+#### Property
+![[Pasted image 20250901162043.png]]
+Every positive definite matrix is [[Self-Adjoint and Hermitian]] and therefore [[Normal Maps]].
 
 
 
