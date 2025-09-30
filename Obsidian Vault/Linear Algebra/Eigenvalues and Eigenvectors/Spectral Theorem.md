@@ -2,7 +2,7 @@
 tags:
   - math/linear_algebra/eigen_values_and_vectors
 ---
-### Idea
+	### Idea
 ![[Pasted image 20250812001258.png]]
 >[!abstract]
 >![[Pasted image 20250812001404.png]]

@@ -10,9 +10,16 @@ We are basically reversing [[Gram-Schmidt]], each $a$ can be composed as it's co
 > >[!note]
 > >If we consider reversing to get $a_2$, we first multiply both sides by $||q_2||$ which is exactly $<a_2, q_2>$ or $r_{22}$
 
+![[IMG_1043.jpeg]]
 
+![[Pasted image 20250925154552.png]]
 
+![[Pasted image 20250925154614.png]]
+> [!note]
+> This exactly comes from the [[Linear Algebra/Linear Transformations/Projection|Projection]], where we have $Q$ in place of $A$
 
+![[Pasted image 20250925154901.png]]
+[[Pseudo Inverse]]
 
 ### Formally
 
