@@ -2,6 +2,17 @@
 #### single-variable
 ![[Screenshot 2024-11-20 at 3.20.19 pm.png]]
 ![[Screenshot 2024-11-20 at 3.20.02 pm.png]]
+#### Lagrange Remainder
+![[Pasted image 20250930213957.png]]
+![[Pasted image 20250930213500.png]]
+![[Pasted image 20250930213515.png]]
+
+![[Pasted image 20250930213542.png]]
+![[Pasted image 20250930213711.png]]
+![[Pasted image 20250930213734.png]]
+[[Mean value theorem]]
+![[Pasted image 20250930213748.png]]
+
 ####  Multi-variable
 ![[Assets/Pictures/8. Taylor Polynomials - Handout.png]]
 [[8. Taylor Polynomials - Handout.pdf#page=12&rect=20,52,788,584|8. Taylor Polynomials - Handout, p.12]]

@@ -28,5 +28,6 @@ Consider $Ax = 0$, by Mv1, we need $x$ [[Dot product|dot]] each row of $A$ to be
 Think of this like for $Ax = b$ as a function, we must have every single possible point within the row space to be mapped to a single point in the range, that means they have equal dimensions.
 
 ![[Pasted image 20250601165349.png]]
+The solution will appear as a point in space, which was a result of squishing in the direction of the null space, therefore the general solution would be a line through that point.
 
 ![[Pasted image 20250601171726.png|400]]

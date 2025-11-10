@@ -1,5 +1,6 @@
 ### Idea
 ![[Assets/Pictures/Topic 2 Lecture Notes (Gardiner) 4.png]]
+[[Modular Arithmetic]]
 [[Topic 2 Lecture Notes (Gardiner).pdf#page=32&rect=5,11,347,269|Topic 2 Lecture Notes (Gardiner), p.32]]
 
 ![[Pasted image 20250604220221.png|300]]
