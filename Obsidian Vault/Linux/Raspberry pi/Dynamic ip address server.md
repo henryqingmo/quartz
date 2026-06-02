@@ -1,1 +1,0 @@
-Use dynu, use ddclient to update public ip address.

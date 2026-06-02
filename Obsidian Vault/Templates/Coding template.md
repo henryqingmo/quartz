@@ -1,5 +1,0 @@
-### Idea
-
-### Example 
-
-#coding 

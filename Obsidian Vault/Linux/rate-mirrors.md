@@ -1,1 +1,0 @@
-rate-mirrors --disable-comments-in-file --entry-country=AU --protocol=https arch --max-delay 7200 | sudo tee /etc/pacman.d/mirrorlist
